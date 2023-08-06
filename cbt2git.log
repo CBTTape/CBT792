@@ -1,0 +1,17 @@
+2023-08-06 07:36:06.307134 - Initialized conversion of CBT792
+2023-08-06 07:36:06.498055 - Received CBT.V505.FILE792.PDS from FILE792.XMI 
+2023-08-06 07:36:06.500497 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE792.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:36:06.501654 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE792.PDS, moved to PDS/$$NOTE01
+2023-08-06 07:36:06.502665 - Found $$NOTE02.txt (text/plain) in CBT.V505.FILE792.PDS, moved to PDS/$$NOTE02
+2023-08-06 07:36:06.503660 - Found $$NOTE03.txt (text/plain) in CBT.V505.FILE792.PDS, moved to PDS/$$NOTE03
+2023-08-06 07:36:06.504743 - Found @FILE792.txt (text/plain) in CBT.V505.FILE792.PDS, moved to PDS/@FILE792
+2023-08-06 07:36:06.505912 - Found DISKMAP.txt (text/plain) in CBT.V505.FILE792.PDS, moved to PDS/DISKMAP
+2023-08-06 07:36:06.506938 - Found DISKMAP$.jcl (text/plain) in CBT.V505.FILE792.PDS, moved to PDS/DISKMAP$
+2023-08-06 07:36:06.508061 - Found DISKMAPO.txt (text/plain) in CBT.V505.FILE792.PDS, moved to PDS/DISKMAPO
+2023-08-06 07:36:06.509059 - Found DISKMAP1.txt (text/plain) in CBT.V505.FILE792.PDS, moved to PDS/DISKMAP1
+2023-08-06 07:36:06.515470 - Found LOADLIB.xmi (application/xmit) in CBT.V505.FILE792.PDS
+2023-08-06 07:36:06.521388   - Received RECFM=U data, stored XMIT file as CBT792/LOADLIB.xmi
+2023-08-06 07:36:06.528128 - Found LOADLIB1.xmi (application/xmit) in CBT.V505.FILE792.PDS
+2023-08-06 07:36:06.533959   - Received RECFM=U data, stored XMIT file as CBT792/LOADLIB1.xmi
+2023-08-06 07:36:06.535106 - Found SAMPJCL1.jcl (text/plain) in CBT.V505.FILE792.PDS, moved to PDS/SAMPJCL1
+2023-08-06 07:36:06.536057 - Found SAMPJCL2.jcl (text/plain) in CBT.V505.FILE792.PDS, moved to PDS/SAMPJCL2
